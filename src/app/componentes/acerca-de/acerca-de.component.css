@@ -1,0 +1,10 @@
+@media (max-width: 559px) {
+    .info-acercaDe {
+        display: flex;
+        flex-direction: column;
+    }
+
+    img#imagenMia {
+        border-radius: 32px;
+    }
+}
